@@ -1,13 +1,15 @@
-# Nintendo 2DS USB-C Kit
+# Nintendo 2DS USB-C
 
-The **Nintendo 2DS: USB-C Kit** is a board that allows to replace the original charging connector for a modern and standard **USB-C**.
+The **Nintendo 2DS: USB-C** is a board that allows to replace the original charging connector for a modern and standard **USB-C**.
 
-**If your original connector is too old or damaged** and you need a new one, or **if you would like to charge your Nintendo 2DS with a standard USB-C charger**, like the charger of your **Nintendo Switch**, phone, laptop, you can with this kit.
+**If your original connector is too old or damaged** and you need a new one, or **if you would like to charge your Nintendo 2DS with a standard USB-C charger**, like the charger of your **Nintendo Switch**, phone, laptop, you can with this board.
 
-This board is compatible with these two models:
+This board is compatible with these models:
 
 *   Nintendo 2DS
 *   Nintendo New 2DS XL
+
+![Nintendo-2DS-USB-C](https://raw.githubusercontent.com/giltesa/Nintendo-2DS-USB-C-Kit/master/4.%20Photos/Nintendo_2DS_USB-C_v1.2.jpg)
 
 
 ## Would you like it?
