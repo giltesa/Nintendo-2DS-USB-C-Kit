@@ -20,7 +20,7 @@ https://shop.giltesa.com/product/nintendo-2DS-usb-c-kit/
 ## More
 
 - [giltesa.com](https://giltesa.com "giltesa.com")
-- [twitter.com](https://twitter.com/giltesa/status/1503669454852481024 "twitter.com")
+- [twitter.com](https://twitter.com/giltesa "twitter.com")
 
 
 ## License
